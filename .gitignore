@@ -1,0 +1,17 @@
+# Compiled binaries/executables
+*.exe
+*.out
+*.app
+build/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local Data files
+data/*.csv
+data/*.json
+
+# IDE config files
+.vscode/
+.idea/
